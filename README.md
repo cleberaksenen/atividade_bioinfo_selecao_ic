@@ -1,1 +1,1 @@
-# atividade_bioinfo_selecao_ic
+# Atividades de Bioinformática para seleção de alunos de Iniciação Científica - ACMELab (FioCE)
