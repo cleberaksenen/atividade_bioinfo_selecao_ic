@@ -2,7 +2,7 @@
 
 ***Atividade 003***
 
-A planilha fornecida (dados.csv presente na mesma pasta) contém informações múltiplas para genomas de SARS-CoV-2 sequenciados no Brasil.
+A planilha fornecida (dados.zip presente na mesma pasta) contém informações múltiplas para genomas de SARS-CoV-2 sequenciados no Brasil.
 É papel do analista e cientista saber filtrar o que é relevante para sua pesquisa.
 
 Busque o significado das colunas e construa visualizações gráficas que possam mostrar:
