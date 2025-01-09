@@ -1,0 +1,14 @@
+A atividade em questão busca avaliar a capacidade e interesse do candidato pela área de Bioinformática Genômica.
+
+A atividade será composta por 3 testes com a adição de um desafio final. Embora o desafio seja complexo, o mais importante é mostrar como você pensa e aborda problemas bioinformáticos. 
+
+Após a conclusão, todo o raciocínio, organização, proatividade e compromisso com a atividade serão avaliados.
+----------------------------------------------------------------------------------------------------------------
+
+***Como devo entregar a atividade?***
+O candidato deve criar um repositório público no GitHub de forma organizada contendo todo o raciocínio, arquivos e códigos empregados para com a atividade.
+
+***Qual o prazo para conclusão?***
+O candidato terá um total de 7 dias (168 horas) para a conclusão da atividade. Quando finalizada, responda ao e-mail com o link do repositório do GitHub criado. 
+
+Caso não consiga chegar em uma resposta para toda a atividade, não há problema, o que estaremos avaliando serão os pontos levantados acima.

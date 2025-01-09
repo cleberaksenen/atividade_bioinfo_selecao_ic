@@ -1,0 +1,56 @@
+-----------------
+ *DESAFIO FINAL*
+-----------------
+
+Objetivo:
+Desenvolver uma versão simplificada de uma pipeline para montagem de genomas virais, demonstrando criatividade, interesse e habilidade em bioinformática.
+
+Descrição do Desafio:
+Você será desafiado(a) a projetar uma pipeline que simule as etapas principais de montagem de genomas virais. A atividade é intencionalmente complexa e não se espera que seja concluída integralmente. O objetivo é avaliar seu raciocínio, abordagem para solução de problemas e seu comprometimento com o desafio.
+
+------------------------------------------------------
+Instruções:
+
+1) Entrada de Dados:
+
+Você deverá coletar um conjunto de sequências virais em formato FASTQ.
+As sequências contêm erros comuns, como nucleotídeos de baixa qualidade e duplicatas.
+
+2) Etapas da Pipeline:
+
+Qualidade das Leituras: Realizar um controle para filtrar leituras de baixa qualidade e remover adaptadores, utilizando ferramentas como FastQC ou similares.
+
+Remoção de Contaminação: Implementar um método básico para identificar e excluir possíveis contaminações.
+
+Montagem: Usar algoritmos de montagem simplificado para reconstruir uma sequência consenso do genoma viral.
+
+Análise de Resultados: Fornecer uma avaliação preliminar da qualidade do genoma montado (e.g., número de contigs, N50, profundidade, cobertura etc).
+
+3) Ferramentas Sugeridas:
+
+Você pode utilizar linguagens de programação (Python, R, etc.), frameworks bioinformáticos ou softwares específicos à sua escolha. O uso de scripts próprios é encorajado.
+
+4) Entrega:
+
+Um relatório detalhado contendo:
+
+Descrição de cada etapa da pipeline e as decisões tomadas.
+
+Resultados preliminares e limitações observadas.
+
+Ideias de melhorias para um futuro desenvolvimento.
+
+Um script funcional ou pseudocódigo que represente a pipeline.
+
+
+5) Critérios de Avaliação:
+
+Originalidade e Criatividade: Propostas inovadoras ou abordagens diferentes serão valorizadas.
+
+Clareza e Organização: Qualidade do relatório e documentação do código.
+
+Engajamento: Demonstrar esforço e interesse em aprender, mesmo diante de dificuldades.
+
+Reprodutibilidade: Scripts e etapas que possam ser facilmente executados por outra pessoa.
+
+

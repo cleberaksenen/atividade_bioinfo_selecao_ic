@@ -1,0 +1,15 @@
+***Você sabe o que é uma string?***
+
+Uma string é simplesmente uma coleção ordenada de símbolos selecionados de algum alfabeto e formada em uma palavra; o comprimento de uma string é o número de símbolos que ela contém.
+
+Um exemplo de uma string de DNA com comprimento 21 (cujo alfabeto contém os símbolos 'A', 'C', 'G' e 'T') é "ATGCTTCAGAAAGGTCTTACG".
+
+
+***Atividade 01***
+Dado um string de DNA (arquivo DNA.txt presente na mesma pasta) forneça:
+
+A) O número de vezes que cada um dos nucleotídeos 'A', 'C', 'G' e 'T' aparecem.
+
+B) Um novo arquivo (nomeado como RNA.txt) com a sequência de RNA transcrita.
+
+C) Um novo arquivo (nomeado como AA.txt) com a sequência de aminoácidos traduzida.

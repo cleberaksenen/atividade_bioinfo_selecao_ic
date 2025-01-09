@@ -1,0 +1,14 @@
+***Evolução é uma sequência de erros***
+
+Dadas 2 strings (A e B) de mesmo comprimento, a distância de Hamming entre elas é o número de símbolos correspondentes que se diferem.
+
+Exemplo:
+A = GAGCCTACTAACGGGAT
+B = CATCGTAATGACGGCCT
+Distância de Hamming = 7
+
+
+***Atividade 02***
+A partir do arquivo (alinhamento.fasta presente na mesma pasta) calcule a Distância de Hamming: 
+- Da sequência B em relação a A
+- Da sequência C em relação a A

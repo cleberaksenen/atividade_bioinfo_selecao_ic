@@ -1,0 +1,14 @@
+***A arte da análise de dados***
+
+***Atividade 003***
+
+A planilha fornecida (dados.csv presente na mesma pasta) contém informações múltiplas para genomas de SARS-CoV-2 sequenciados no Brasil.
+É papel do analista e cientista saber filtrar o que é relevante para sua pesquisa.
+
+Busque o significado das colunas e construa visualizações gráficas que possam mostrar:
+
+A) A evolução genômica com o passar do tempo 
+OBS.: Analise o número de alterações genéticas (substituições, inserções e deleções) como sinônimo de evolução
+
+B) O quantitativo de amostras para cada região e estado brasileiro
+
