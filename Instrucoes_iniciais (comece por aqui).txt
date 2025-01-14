@@ -2,6 +2,8 @@ A atividade em questão busca avaliar a capacidade e interesse do candidato pela
 
 A atividade será composta por 3 testes com a adição de um desafio final. Embora o desafio seja complexo, o mais importante é mostrar como você pensa e aborda problemas bioinformáticos. 
 
+Recomenda-se a realização em ordem: Atividade 1, Atividade 2, Atividade 3 e Desafio Final.
+
 Após a conclusão, todo o raciocínio, organização, proatividade e compromisso com a atividade serão avaliados.
 ----------------------------------------------------------------------------------------------------------------
 
